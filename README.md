@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hacker1254&show_icons=true&locale=en" alt="hacker1254" /></p>
 
-<h3 align="center">Git Stats:</h3>
+<h3 align="center">Git Stats</h3>
