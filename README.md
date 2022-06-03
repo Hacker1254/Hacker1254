@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hacker1254&show_icons=true&locale=en" alt="hacker1254" /></p>
 
-<p><a href="https://www.buymeacoffee.com/WorldClient"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="WorldClient" /></a></p><br><br><h3 align="center">Support</h3>
+<p><a href="https://www.buymeacoffee.com/WorldClient"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="WorldClient" /></a></p><br><br><h3 align="center">Git Stats:</h3>
