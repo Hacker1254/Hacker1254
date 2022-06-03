@@ -1,16 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm _1254</h1>
-<h3 align="center">A Young Developer whos Bored</h3>
+<h1 align="center">_1254</h1>
+<h3 align="right">【A Young Developer whos Bored】</h3>
 <p><img align="right" src="https://user-images.githubusercontent.com/69991448/171904379-2e2c76fe-c2f3-4868-bbb7-20c5149b7d94.jpg" height="210" width="210" alt="hacker1254" /></p>
 <h3 align="center">About:</h3>
 <h4 align="center">（ฅ＾ﻌ＾ฅ)</h4>
 <h5 align="center">° 》Very Much cares for you【Fr】</h5>
 <h5 align="center">° 》Dabbles in C＃ Coding （Not really anything to brag about）</h5>
 <h5 align="center">° 》Age is 14 （≺- Read This ․-․）</h5>
-<h5 align="center">° 》Dis˸ _1254＃8505</h5>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hacker1254&label=Profile%20views&color=0e75b6&style=flat" alt="hacker1254" /> </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hacker1254&show_icons=true&locale=en&layout=compact" alt="hacker1254" /></p>
